@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning how to make computer games on Unreal Engine
+- ⚡ Fun fact: I can also play the electric guitar 🎸
 <!--
 **I0VoONE0I/I0VoONE0I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
